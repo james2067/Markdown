@@ -7,7 +7,7 @@ Project for markdown challenge.
 
 <https://dalemusser.com>
 
-[Secondary Markdown](Secondary)
+[Secondary Markdown](https://github.com/james2067/Markdown/blob/master/secondary)
 
 ![Dog photo from directory](C:\Users\james\Documents\School\Markdown\th)
 
