@@ -9,7 +9,7 @@ Project for markdown challenge.
 
 [Secondary Markdown](https://github.com/james2067/Markdown/blob/master/Secondary.md)
 
-![Dog photo from directory](C:\Users\james\Documents\School\Markdown\th)
+![Dog photo from directory](th.jpg)
 
 ![Cat photo from internet](https://media.mnn.com/assets/images/2016/02/angry-cat.jpg.838x0_q80.jpg)
 
